@@ -841,6 +841,98 @@ a {
   text-align: center;
   color: #000000;
 }
+.cid-u4K6i1Bbw3 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-u4K6i1Bbw3 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-u4K6i1Bbw3 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-u4K6i1Bbw3 .timeline-element {
+  position: relative;
+}
+.cid-u4K6i1Bbw3 .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-u4K6i1Bbw3 .iconBackground {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid #6592e6;
+  top: 30px;
+  margin-left: -9px;
+  padding: 0;
+}
+@media (max-width: 767px) {
+  .cid-u4K6i1Bbw3 .iconBackground {
+    left: 15px;
+  }
+}
+@media (min-width: 768px) {
+  .cid-u4K6i1Bbw3 .iconBackground {
+    left: 50%;
+  }
+}
+.cid-u4K6i1Bbw3 .row:after {
+  content: "";
+  position: absolute;
+  background-color: #6592e6;
+  width: 2px;
+  top: 50px;
+  height: calc(100% - 10px);
+}
+@media (max-width: 767px) {
+  .cid-u4K6i1Bbw3 .row:after {
+    left: 15px;
+  }
+}
+@media (min-width: 768px) {
+  .cid-u4K6i1Bbw3 .row:after {
+    left: 50%;
+  }
+}
+.cid-u4K6i1Bbw3 .row:nth-child(odd) .mbr-timeline-date {
+  text-align: right;
+}
+@media (max-width: 767px) {
+  .cid-u4K6i1Bbw3 .row:nth-child(even) {
+    flex-direction: column-reverse;
+  }
+}
+@media (max-width: 767px) {
+  .cid-u4K6i1Bbw3 .timeline-date-wrapper,
+  .cid-u4K6i1Bbw3 .timeline-text-wrapper {
+    padding: 0rem;
+    padding-left: 2rem;
+  }
+  .cid-u4K6i1Bbw3 .mbr-timeline-date {
+    text-align: left !important;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-u4K6i1Bbw3 .timeline-date-wrapper,
+  .cid-u4K6i1Bbw3 .timeline-text-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-u4K6i1Bbw3 .timeline-date-wrapper,
+  .cid-u4K6i1Bbw3 .timeline-text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-u4JUuVODRK {
   padding-top: 6rem;
   padding-bottom: 6rem;
