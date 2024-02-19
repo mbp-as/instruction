@@ -864,3 +864,27 @@ a {
 .cid-u4JUuVODRK .mbr-section-subtitle {
   text-align: center;
 }
+.cid-u4K2KYYKa6 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #edefeb;
+}
+.cid-u4K2KYYKa6 .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-u4K2KYYKa6 form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-u4K2KYYKa6 form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-u4K2KYYKa6 form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
+.cid-u4K2KYYKa6 .content-head {
+  max-width: 800px;
+}
